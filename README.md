@@ -5,4 +5,4 @@ Varnish default.vcl for wordpress
 for
 
 Custom Web Design Services:
-https://www.limit.agency
+https://www.limit.ro
