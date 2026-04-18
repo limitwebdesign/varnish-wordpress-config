@@ -1,5 +1,8 @@
 # varnish-wordpress-config
 Varnish default.vcl for wordpress
 
-Web Design Services:
+
+for
+
+Custom Web Design Services:
 https://www.limit.agency
